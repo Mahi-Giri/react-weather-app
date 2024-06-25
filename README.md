@@ -1,10 +1,12 @@
 
 ## In the project directory, you can run:
 
+You need to install node_modules for that use this command in integrated terminal
 ### `npm install --force`
 
 Force is necessary due to certain package dependencies.
 
+after installing node_modules use this command in integrated terminal for running project
 ### `npm start`
 
 
